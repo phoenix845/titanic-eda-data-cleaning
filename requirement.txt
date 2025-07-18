@@ -1,0 +1,14 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization libraries
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Jupyter environment (for local use)
+jupyterlab==4.2.1
+ipykernel==6.29.4
+
+# Optional: PDF generation (used for reports, if needed)
+fpdf==1.7.2
